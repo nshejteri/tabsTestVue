@@ -1,0 +1,7 @@
+{
+  "name": "tabsTestVue",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
